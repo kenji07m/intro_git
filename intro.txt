@@ -2,3 +2,4 @@ GITの練習をしていきます
 ターミナルの練習
 .git add
 .git commit
+.git status
